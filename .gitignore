@@ -1,0 +1,18 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JetBrains IDE folder (PhpStorm, PyCharm, IntelliJ, etc.)
+.idea/
+
+# Mac OS folder attributes
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Virtual Environments (in case you or your wife ever set one up to install PyAutoGUI)
+venv/
+env/
+.venv/
